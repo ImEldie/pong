@@ -1,0 +1,8 @@
+#enemy{
+    background-color: red;
+    width: 100px;
+    height: 16px;
+    border-radius: 4px;
+    left: 540px;
+    position: relative;
+}

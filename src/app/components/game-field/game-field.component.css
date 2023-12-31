@@ -1,0 +1,17 @@
+.gamefield {
+    background-color: black;
+    width: 640px;
+    height: 640px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+app-enemy-bar{
+    top: 0px;
+    position: relative;
+}
+
+app-player-bar{
+    bottom: -594px;
+    position: relative;
+}

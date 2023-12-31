@@ -1,0 +1,8 @@
+#player{
+    background-color: blue;
+    width: 100px;
+    height: 16px;
+    border-radius: 4px;
+    left: 540px;
+    position: relative;
+}
